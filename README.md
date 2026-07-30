@@ -1,34 +1,64 @@
 # Hotel Booking Demand Analysis
 
 ## Project Overview
-This project analyzes hotel booking data over a three-year period to uncover patterns in customer behavior, seasonal demand, pricing stability, and booking cancellations.
 
-The analysis provides insights that can support better pricing, marketing, and operational planning decisions for hotels.
+This project analyzes hotel booking data from Slyva Crescent Hotel and Resort Hotel between July 2015 and August 2017. Using Power BI, the analysis explores guest demographics, booking behavior, hotel performance, and cancellation trends to uncover insights that support data-driven decision-making.
 
-## Tools Used
-- Power BI
-- Data Cleaning & Preparation
-- Data Visualization
-- Trend Analysis
+The dashboard answers key business questions regarding guest origin, average daily rates (ADR), length of stay, booking cancellations, and customer profiles through interactive visualizations.
 
 ## Objectives
-- Identify high and low demand periods
-- Analyze guest origin and length of stay
-- Examine booking cancellations and contributing factors
-- Evaluate pricing trends using Average Daily Rate (ADR)
 
-## Key Insights
-- Booking activity remained strong across the three-year period
-- Clear peak and low seasons were observed
-- The majority of guests originated from a small number of major countries
-- Average Daily Rate (ADR) remained relatively stable over time
-- Cancellations were present but remained at manageable levels
+- Identify the top five countries with the highest number of hotel bookings.
+- Determine the guest with the highest Average Daily Rate (ADR).
+- Calculate the mean ADR.
+- Calculate the average number of nights guests stayed.
+- Identify the booking with the highest number of children and babies.
+- Answer additional business questions to generate actionable insights.
+- Build an interactive Power BI dashboard for hotel management.
 
-## Business Impact
-These insights can help hotels optimize pricing strategies, target marketing efforts more effectively, and plan resources efficiently—especially during slower demand periods.
+## Tools & Technologies
 
-## Conclusion
-This project strengthened my Power BI skills, particularly in data cleaning, visualization, and trend interpretation, while demonstrating how data-driven insights can support strategic decision-making in the hospitality industry.
+- Power BI
+- Power Query
+- DAX
+
+- ## Dashboard Features
+
+- KPI Cards displaying:
+  - Total Bookings
+  - Total Cancelled Bookings
+  - Number of Repeat Guests
+  - Total Guests
+  - Average Nights Stayed
+  - Mean Average Daily Rate (ADR)
+- Top 5 Countries with the Most Guests
+- Top 5 Market Segments
+- Monthly Booking Trends
+- Hotel Type Distribution (City Hotel vs Resort Hotel)
+- Guests with the Most Children and Babies
+- Guests with the Highest ADR
+- Interactive slicers for Year, Month, and Country
+
+## Key Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- DAX
+- Data Visualization
+- Dashboard Design
+- Business Intelligence
+- Data Storytelling
+
+## Repository Contents
+
+- Hotel Booking Dashboard.pbix
+- CLEANED_DATA.csv
+- DASHBOARD.png
+- EXECUTIVE_SUMMARY.pdf
+- BUSINESS_QUESTIONS.pdf
 
 ## Dashboard Preview
-![Dashboard Preview](IMG_5732.jpeg)
+
+![Hotel Booking Dashboard](DASHBOARD (2).png)
+
