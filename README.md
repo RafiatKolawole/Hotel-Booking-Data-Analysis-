@@ -60,5 +60,5 @@ The dashboard answers key business questions regarding guest origin, average dai
 
 ## Dashboard Preview
 
-![Hotel Booking Dashboard](DASHBOARD (2).png)
+![Hotel Booking Dashboard](HotelDashboard.png)
 
